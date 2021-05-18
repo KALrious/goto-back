@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "paths": {
+        "@wowlink/*": ["src/*"],
+        "@wowInterface/*": ["src/interface/*"]
+      }
+    }
+  }
